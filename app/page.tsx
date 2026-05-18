@@ -280,6 +280,49 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="mx-auto max-w-5xl px-6 py-24">
+  <div className="rounded-3xl border border-neutral-200 bg-white p-8 shadow-sm md:p-12">
+    <p className="mb-3 text-sm uppercase tracking-[0.2em] text-neutral-500">
+      Newsletter
+    </p>
+
+    <h2 className="text-3xl font-semibold tracking-tight text-black md:text-5xl">
+      China AI Growth Brief
+    </h2>
+
+    <p className="mt-4 max-w-2xl text-base leading-7 text-neutral-600 md:text-lg">
+      Field notes on China AI platforms, GTM signals, and visibility systems
+      for AI founders.
+    </p>
+
+    <form
+      action="https://buttondown.com/api/emails/embed-subscribe/chinaaigrowth"
+      method="post"
+      target="popupwindow"
+      className="mt-8 flex max-w-2xl flex-col gap-3 sm:flex-row"
+    >
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="you@company.com"
+        className="flex-1 rounded-2xl border border-neutral-300 px-5 py-4 text-base outline-none transition focus:border-black"
+      />
+
+      <button
+        type="submit"
+        className="rounded-2xl bg-black px-6 py-4 text-base font-medium text-white transition hover:opacity-90"
+      >
+        Subscribe
+      </button>
+    </form>
+
+    <p className="mt-4 text-sm text-neutral-500">
+      No spam. Just practical observations on China AI growth and visibility.
+    </p>
+  </div>
+</section>
+
       <footer className="border-t border-slate-200 px-6 py-10">
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-4 text-sm text-slate-500 md:flex-row">
           <p>© 2026 Shen Xu. AI Growth Consultant for Global AI Companies.</p>
