@@ -1,13 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# China AI Growth
 
-## Getting Started
+China AI Growth is a project focused on helping AI companies, SaaS firms, and technology startups enter and grow in the Chinese market.
 
-First, run the development server:
+## Services
 
-```bash
-npm run dev
-# or
-yarn dev
+* China Market Entry (GTM)
+* AI Visibility & GEO
+* Content Localization
+* Community Growth
+* Search & Discovery Strategy
+* Partner & Supplier Research
+
+## About the Founder
+
+Shen Xu is a digital marketing strategist and independent researcher with 20+ years of experience in digital growth, China marketing, and AI visibility.
+
+He is the author of:
+
+* Agentic Search Optimization
+* Decision Authority Economy
+
+Former Head of Strategy, DigitasLBi Greater China.
+
+## Links
+
+LinkedIn:
+https://www.linkedin.com/in/shanehsu/
+
+GitHub:
+https://github.com/ShenXuAkaEkstasis
+
 # or
 pnpm dev
 # or
