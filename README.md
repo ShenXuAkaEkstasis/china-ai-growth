@@ -15,7 +15,7 @@ China AI Growth helps AI companies, SaaS firms, and technology startups enter an
 
 Shen Xu is a digital marketing strategist, independent researcher, and author with 20+ years of experience in digital marketing, AI visibility, and China market growth.
 
-He is the author of:
+Author of:
 
 * Agentic Search Optimization
 * Decision Authority Economy
@@ -30,9 +30,9 @@ Former Head of Strategy, DigitasLBi Greater China.
 
 ## Links
 
-**LinkedIn**
+LinkedIn
 https://www.linkedin.com/in/shanehsu/
 
-**GitHub**
+GitHub
 https://github.com/ShenXuAkaEkstasis
 
