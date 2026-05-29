@@ -30,9 +30,9 @@ Former Head of Strategy, DigitasLBi Greater China.
 
 ## Links
 
-LinkedIn:
+**LinkedIn**
 https://www.linkedin.com/in/shanehsu/
 
-GitHub:
+**GitHub**
 https://github.com/ShenXuAkaEkstasis
 
